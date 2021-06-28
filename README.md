@@ -1,3 +1,4 @@
+
 # Real-life-violence-detection
 
 ## Data Collection
@@ -19,11 +20,12 @@ Output is in the form of a video, which will tell violence/ non-violence on the 
 
 
 
-https://user-images.githubusercontent.com/56165694/123710016-9eba5f00-d88b-11eb-991b-4e416c96537f.mp4
+<!-- https://user-images.githubusercontent.com/56165694/123710016-9eba5f00-d88b-11eb-991b-4e416c96537f.mp4 -->
 
+![v_output](https://user-images.githubusercontent.com/56165694/123710940-366c7d00-d88d-11eb-866e-c09e2185c571.gif)
+<!-- 
 
-
-https://user-images.githubusercontent.com/56165694/123710285-17b9b680-d88c-11eb-9552-d4dfb02605d8.mp4
+![nv_output](https://user-images.githubusercontent.com/56165694/123710285-17b9b680-d88c-11eb-9552-d4dfb02605d8.mp4) -->
 
 
 
